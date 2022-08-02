@@ -1,0 +1,34 @@
+/* text formatting */
+
+p {
+
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: lavender;
+    font-size: 20px;
+    text-align: justify;
+    /*border: 10 groove cyan;*/
+}
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+/* Box model 
+padding - space between the text and the border
+border - the lining around padding (SIZE, STYLE, CLOUR)
+margin - space between border and the workspace 
+*/
+
+h1{
+    padding: 10px;
+    border: 10px groove crimson;
+    margin-bottom: 10px 5px;
+
+
+
+}
+
